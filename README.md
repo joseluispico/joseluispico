@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseluispico
 - 👀 I’m interested in advance programming and love taking on new challenges.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and front end languages.
 - 💞️ I’m looking to collaborate on front-end and back-end programming to all those who need guidance and learning pathways. 
 - 📫 How to reach me: Send an email to contact_me@joseluispico.com
 
